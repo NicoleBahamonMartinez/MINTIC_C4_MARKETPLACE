@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682546842931",
+    "project_id": "mintic-c4-marketplace",
+    "storage_bucket": "mintic-c4-marketplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682546842931:android:fd49db3ec552f7b3cdc246",
+        "android_client_info": {
+          "package_name": "com.example.corazonsaludable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682546842931-gbkiaoj9chknn9a0l98fnecseb52nsjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmKdr_NAmhXSH-04Ps3UtKlueGUMefy7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682546842931-gbkiaoj9chknn9a0l98fnecseb52nsjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
