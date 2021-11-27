@@ -19,6 +19,9 @@
     <string name="sign_up"><u>Regístrate!</u>.</string>
     <string name="sign_in"><u>Inicia sesión!</u>.</string>
     <string name="title_activity_user_info">UserInfo</string>
+    <string name="test_search">Search</string>
+    <string name="test_Category">Category</string>
+    <string name="test_Seller">Seller</string>
 
 
 </resources>
